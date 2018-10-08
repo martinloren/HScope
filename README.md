@@ -1,5 +1,5 @@
 # HScope
-HScope repository to track Issues and new development requestes.
+HScope repository to track Issues and new development requests.
 
 Online Guide: http://hscope.martinloren.com/
 
