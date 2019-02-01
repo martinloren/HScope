@@ -1,5 +1,5 @@
 # HScope
-HScope repository to track Issues and new development requests.
+HScope repository.
 
 App on Google Play: https://play.google.com/store/apps/details?id=com.martinloren.hscope
 
