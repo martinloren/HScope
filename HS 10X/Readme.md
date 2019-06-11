@@ -14,7 +14,7 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
   Added 1KHz square wave generation option for reference and HS101 PRO calibration
   Reduced noise for all models
   Higher sampling rates
-
+  Fixed bug to let it work on Android 4.4
 
 
 These files are part of HScope Project.
