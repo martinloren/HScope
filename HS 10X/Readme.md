@@ -21,5 +21,5 @@ Stable Version.
 - Fixed bug to let it work on Android 4.4
 
 
-
+ 
 *These files are part of HScope Project.*
