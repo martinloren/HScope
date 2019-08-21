@@ -27,6 +27,7 @@ Stable Release for all devices (USB).
 - Fixed bug to let it work on Android 4.4
 
 #### V3, V4
-Stable Release.
+Stable Releases.
+
 
 *These files are part of HScope Project.*
