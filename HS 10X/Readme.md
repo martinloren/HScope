@@ -12,12 +12,12 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 
 ### Versions
 #### V6:
-Stable Release for all devices (USB).
+Sperimental for all devices (USB).
 
-#### V5 BLT (in Test):
+#### V5 BLT (Sperimental):
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
 
-#### V5:
+#### V5 (Sperimental):
 - Added new Input Types: DUAL and PRO
 - Added hardware AC/DC coupling option, possible for all models
 - Added 1KHz square wave generation option for reference and HS101 PRO calibration
