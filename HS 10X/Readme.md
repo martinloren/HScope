@@ -11,19 +11,16 @@ These files can be opened with DIYLC editor. You can use it to easily check how 
 Universal Firmware for HS101 and HS102 and all input versions. Device and Input type can be configured within <a href="http://hscope.martinloren.com/HS102-oscilloscope.html#flash_firmware" target="_blank">HScope Settings</a>.
 
 ### Versions
-#### V6:
-Sperimental for all devices (USB).
 
 #### V5 BLT (Sperimental):
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
 
-#### V5 (Sperimental):
+#### V5 (Stable):
 - Added new Input Types: DUAL and PRO
 - Added hardware AC/DC coupling option, possible for all models
 - Added 1KHz square wave generation option for reference and HS101 PRO calibration
 - Reduced noise for all models
 - Higher sampling rates  
-**Not released:**
 - Fixed bug to let it work on Android 4.4
 
 #### V3, V4
