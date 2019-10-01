@@ -15,7 +15,7 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 #### V6 BLT:
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
 - Save calibration data inside STM32
-- Added reset codes for HC-05 Bluetooth module
+- Added reset AT codes for HC-05 Bluetooth module
 
 #### V5 BLT (Sperimental):
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
