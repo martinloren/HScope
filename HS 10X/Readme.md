@@ -31,5 +31,8 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 #### V3, V4
 Stable Releases.
 
-
 *These files are part of HScope Project.*
+
+# Additional Project Resources
+- <a href="https://github.com/SUNsung/HScope_PCB" target="_blank">PCB files for compact built for HS101 and HS102 (by Vladimir)</a>
+- <a href="https://www.thingiverse.com/thing:3940546" target="_blank">3D Printer files for HS101 boxing (by Magnus)</a>
