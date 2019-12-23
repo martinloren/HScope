@@ -13,3 +13,7 @@ Build the PCB for the HS101 PRO to be installed over an STM32 Blue Pill board. T
 - Max Noise (@2MSa/s): 0.4% of voltage range
 - Min Noise (@2KSa/s): 0.044% of voltage range
 - Input Impedance	1 Mohm
+
+## Calibration Procedure
+
+Available <a href="http://hscope.martinloren.com/HS101PRO-oscilloscope.html#calib" target="_blank">here</a>.
