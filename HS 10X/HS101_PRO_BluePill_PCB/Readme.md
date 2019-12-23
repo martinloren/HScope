@@ -16,4 +16,4 @@ Build the PCB for the HS101 PRO to be installed over an STM32 Blue Pill board. T
 
 ## Calibration Procedure
 
-Available <a href="http://hscope.martinloren.com/HS101PRO-oscilloscope.html#calib" target="_blank">here</a>.
+Available <a href="http://hscope.martinloren.com/HS101PRO-oscilloscope.html#calib" target="\_new">here</a>.
