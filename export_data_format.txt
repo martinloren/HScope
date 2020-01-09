@@ -1,0 +1,20 @@
+Automotive Module recorder generate a .ZIP file on data export. These files contains data in XML Format.
+
+Sample of content:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data SYSTEM "roles.dtd">
+<data>
+    <date>October 1, 2018 at 1:10 PM</date>
+    <rate>500.0</rate>
+    <bits>8</bits>
+    <samples>4412</samples>
+    <CH0>
+        <unit>V</unit>
+        <data>1.171875, 1.2109375, 1.2890625, ...</data>
+    </CH0>
+    <CH1>
+        <unit>V</unit>
+        <data>-1.9140625, -1.9140625, -1.9140625, ...</data>
+    </CH1>
+</data>
