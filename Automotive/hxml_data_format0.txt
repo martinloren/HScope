@@ -1,0 +1,29 @@
+Sample of content:
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE data SYSTEM "roles.dtd">
+<data>
+    <date>October 1, 2018 at 1:10 PM</date>
+    <type>1</type>
+    <version>1</version>
+    <device>OSC482</device>
+    <rate>500.0</rate>
+    <bits>8</bits>
+    <samples>1000</samples>
+    <CH0>
+        <unit>V</unit>
+        <min>-1.1234</min>
+        <max>1.1234</max>
+        <data>
+(binary data, array of float, 4 byte each float)
+        </data>
+    </CH0>
+    <CH1>
+        <unit>V</unit>
+        <min>-1.1234</min>
+        <max>1.1234</max>
+        <data>
+(binary data, array of float, 4 byte each float)
+        </data>
+    </CH1>
+</data>
