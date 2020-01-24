@@ -18,10 +18,12 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 
 #### V8 (Stable - USB Version):
 - Added support for HS102 PRO
+- Added another pin for AC/DC coupling
 - Silenced unused pins
 
 #### V8 BLT:
 - Added another pin for AC/DC coupling
+- Silenced unused pins
 
 #### V6 BLT:
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
