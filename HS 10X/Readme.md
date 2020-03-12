@@ -5,6 +5,7 @@ Devices introduction: http://www.martinloren.com/hs10x-diy-oscilloscopes
 ## Hardware vs Noise Considerations
 
 - HS101 PRO Blue Pill (USB): 0.4% noise
+- HS101 PRO Black Pill (USB): 0.2% noise @ 900KSa/s (0.1% @ 100KSa/s)
 - HS101 PRO Blue Pill (BLT - Battery Powered): 0.3% noise @ 900KSa/s (0.08% @ 100KSa/s)
 - HS101 PRO Black Pill (BLT - Battery Powered): < 0.1% noise @ 900KSa/s (<0.03% @ 100KSa/s)
 
