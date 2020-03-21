@@ -13,22 +13,27 @@ Devices introduction: http://www.martinloren.com/hs10x-diy-oscilloscopes
 
 Universal Firmware for HS101 and HS102 and all input versions. Device and Input type can be configured within <a href="http://hscope.martinloren.com/HS102-oscilloscope.html#flash_firmware" target="_blank">HScope Settings</a>.
 
-### Versions
+### Latest Releases
 
-#### V8 (Stable - USB Version):
-- Added support for HS102 PRO
-- Added another pin for AC/DC coupling
-- Silenced unused pins
+#### V9 (USB Version):
+- Added support for CS32F103 chipsets
 
 #### V8 BLT:
 - Added another pin for AC/DC coupling
 - Silenced unused pins
+
+### Old Releases
 
 #### V6 BLT:
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
 - Save calibration data inside STM32
 - Added reset AT codes for HC-05 Bluetooth module
 Note: has still stability issues
+
+#### V8 (USB Version):
+- Added support for HS102 PRO
+- Added another pin for AC/DC coupling
+- Silenced unused pins
 
 #### V5 BLT (Sperimental):
 - Firmware for Bluetooth module, just for HS101 (20V, 5V, DUAL and PRO)
