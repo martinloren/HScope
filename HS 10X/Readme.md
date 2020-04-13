@@ -9,11 +9,18 @@ Devices introduction: http://www.martinloren.com/hs10x-diy-oscilloscopes
 - HS101 PRO Blue Pill (BLT - Battery Powered): 0.3% noise @ 900KSa/s (0.08% @ 100KSa/s)
 - HS101 PRO Black Pill (BLT - Battery Powered): < 0.1% noise @ 900KSa/s (<0.03% @ 100KSa/s)
 
+- HS101 PRO Black Pill (BLT - Battery Powered). Firmware V9: < 0.08% noise @ 900KSa/s (<0.03% @ 100KSa/s)
+
 ## Firmware (.bin)
 
 Universal Firmware for HS101 and HS102 and all input versions. Device and Input type can be configured within <a href="http://hscope.martinloren.com/HS102-oscilloscope.html#flash_firmware" target="_blank">HScope Settings</a>.
 
 ### Latest Releases
+
+#### V9 (BLT Version):
+- Added support for CS32F103 chipsets
+- Lower noise
+- Better Stability
 
 #### V9 (USB Version):
 - Added support for CS32F103 chipsets
