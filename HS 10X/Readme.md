@@ -17,6 +17,11 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 
 ### Latest Releases
 
+#### V10 (USB Version - BETA):
+- Double samples
+- Improved stability
+- Required HScope Beta version
+
 #### V9 (BLT Version):
 - Added support for CS32F103 chipsets
 - Lower noise
