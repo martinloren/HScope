@@ -1,1 +1,1 @@
-# Component datasheets for HS402 Oscilloscope.
+## Datasheets for HS402 Oscilloscope
