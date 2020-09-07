@@ -6,7 +6,7 @@ Devices introduction & instructions: https://www.martinloren.com/hs40x-diy-oscil
 
 ### V1.7
 
-- Fixed some text on silkscreen. Added GND pin for PWM generator.
+- Fixed some text and symbol on silkscreen. Added GND pin for PWM generator.
 
 ### V1.6
 
