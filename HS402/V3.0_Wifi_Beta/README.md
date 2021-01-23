@@ -16,4 +16,4 @@ Download the files from the Firmware folder. Connect the ESP32 development board
 ### By using Espressif Flash Download Tool (Windows)
 1. Download tool <a href="https://www.espressif.com/en/support/download/other-tools" target="_blank">here</a>, or from the ESP32 Firmware folder.
 2. Load the files in the Download Tool as following. Set correctly the addresses and the COM port.
-![Flash Download Tools](ESP32-Firmware/Flash_Download_Tool.jpg)
+![Flash Download Tools](ESP32-Firmware/Flash_Download_Tool.png)
