@@ -1,9 +1,12 @@
-# HS402 PCB V3.0
+# HS402 Oscilloscope V3.0 (BETA)
+This version is still in development, schematic and PCB is available for consultation only and they may change according the current tests.
+
 ## Changelog
-- New TPS73733 to generate 3.3v reference
+- New option with TPS73733 to generate 3.3v reference
 - New Wifi module added to PCB (optional)
-- Fixed var cap pads dimension
+- Fixed PCB pads dimension for variable capacitors
 - Updated components list with pictures of the components
+- Total 3 hardware options for basic HS402 (USB) and 2 Hardware Options for WIFI module
 
 ## Flashing ESP32
 Download the files from the Firmware folder. Connect the ESP32 development board to the PC with the USB cable.
