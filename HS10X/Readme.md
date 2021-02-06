@@ -17,6 +17,10 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 
 ### Latest Releases
 
+#### V10.2 (USB Version):
+- Re-enabled DUAL input mode
+- Added PWM output
+
 #### V10.1 (USB Version):
 - Double samples
 - Improved stability
