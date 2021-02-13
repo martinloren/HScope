@@ -24,9 +24,15 @@ Download the files from the Firmware folder. Connect the ESP32 development board
 (when the procedure start press both RESET (EN) and BOOT buttons, then release first the RESET (EN) button and then also the BOOT button)
 
 ### By using Espressif Flash Download Tool (Windows)
-1. Download tool <a href="https://www.espressif.com/en/support/download/other-tools" target="_blank">here</a>, or from the ESP32 Firmware folder.
-2. Load the files in the Download Tool as following. Set correctly the addresses and the COM port.
+1. Download the windows driver from the ESP32-Firmware folder.
+2. Download tool <a href="https://www.espressif.com/en/support/download/other-tools" target="\_blank">here</a>, or from the ESP32-Firmware folder.
+3. Load the files in the Download Tool as following. Set correctly the addresses and the COM port (speed 921600 or 460800 baud).<br/>
+Address #1: 0x1000<br/>
+Address #2: 0x8000<br/>
+Address #3: 0x10000<br/><br/>
 ![Flash Download Tools](ESP32-Firmware/Flash_Download_Tool.png)
+
+4. Press on START
 
 ## Changelog for PCB V3.0
 - New option with TPS73733 to generate 3.3v reference
