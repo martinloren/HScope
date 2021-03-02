@@ -1,4 +1,4 @@
-# HS402 Oscilloscope V3.0 (BETA)
+M# HS402 Oscilloscope V3.0 (BETA)
 HS402 oscilloscope + Wifi capabilities = HS402 V3.0!
 
 Note: this version is still in development, schematic and PCB is available for consultation only and they may change according the current tests.
@@ -17,6 +17,17 @@ Note: this version is still in development, schematic and PCB is available for c
 
 ## Flashing ESP32
 Download the files from the Firmware folder. Connect the ESP32 development board to the PC with the USB cable.
+
+#### Version 1.1 Beta
+- Decreased CPU speed to 160Mhz
+- Decreased FLASH SPI speed to 40Mhz
+- Power consumption (with HS402): 100mA
+- Increased stability
+- Requires HScope version 216 or higher
+- Tested with ESP32-WROOM-32D and ESP32-WROOM-32E
+
+#### Version 1.0
+First stable release
 
 ### By Command line (change COM port number and filenames)
     esptool.py -p COM15 -b 460800 --before default_reset --after hard_reset --chip esp32 write_flash --flash_mode dio --flash_freq 80m --flash_size 2MB 0x8000 partition-table.bin 0x1000 bootloader.bin 0x10000 ESP32_firmware_V1.0_Beta.bin
