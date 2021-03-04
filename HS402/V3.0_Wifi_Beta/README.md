@@ -18,6 +18,10 @@ Note: this version is still in development, schematic and PCB is available for c
 ## Flashing ESP32
 Download the files from the Firmware folder. Connect the ESP32 development board to the PC with the USB cable.
 
+#### Version 1.2
+- Increased stability
+- Requires STM32 with firmware v1.7
+
 #### Version 1.1 Beta
 - Decreased CPU speed to 160Mhz
 - Decreased FLASH SPI speed to 40Mhz
