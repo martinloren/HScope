@@ -1,4 +1,4 @@
-M# HS402 Oscilloscope V3.0 (BETA)
+# HS402 Oscilloscope V3.0
 HS402 oscilloscope + Wifi capabilities = HS402 V3.0!
 
 Note: this version is still in development, schematic and PCB is available for consultation only and they may change according the current tests.
@@ -50,7 +50,7 @@ Address #3: 0x10000<br/><br/>
 4. Press on START
 
 ## Changelog for PCB V3.0
-- New option with TPS73733 to generate 3.3v reference
+- New option 3 with TPS73733 to generate 3.3v reference (lowest noise option)
 - New Wifi module added to PCB (optional)
 - Fixed PCB pads dimension for variable capacitors
 - Updated components list with pictures of the components
