@@ -1,8 +1,24 @@
-# Material for HS402 DIY Oscilloscope
+# Material for Building HS402 DIY Oscilloscope
 
-Devices introduction & instructions: https://www.martinloren.com/hs40x-diy-oscilloscopes/
+Oscilloscope introduction: https://www.martinloren.com/hs40x-diy-oscilloscopes/
 
-## Firmware Changelog
+## PCB Changelog
+### V3.0
+- Provide 3 hardware options for main HS402 PCB board (option 3 for lowest noise)
+- Include WiFi extension board with 2 hardware options
+- Other details in the folder
+
+### V2.0
+- Provide 2 hardware options for main HS402 PCB board (option 2 for lower noise)
+
+### V1.4-1.7
+- inside OLD folder
+
+## STM32 Firmware Changelog
+This versioning is not related to the PCB versioning. Any PCB version can use the latest STM32 Firmware.
+### V1.7
+- Stable release, supports both USB and WiFi connection
+
 ### V1.6 (Beta)
 - Addeed Wifi capabilities
 - UART working at 4.000.000 baud (cannot be used for debug anymore)
