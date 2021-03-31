@@ -18,6 +18,9 @@ Note: this version is still in development, schematic and PCB is available for c
 ## Flashing ESP32
 Download the files from the Firmware folder. Connect the ESP32 development board to the PC with the USB cable.
 
+#### Version 1.3
+- Added possibility to have 2 Wifi configuration for STA mode (ie. home & office). On startup it try the first, if it doesn't work then try the second.
+
 #### Version 1.2
 - Increased stability
 - Requires STM32 with firmware v1.7
