@@ -14,6 +14,13 @@ Build the PCB for the HS101 PRO to be installed over an STM32 Blue Pill board. T
 - Min Noise (@2KSa/s): 0.044% of voltage range
 - Input Impedance	1 Mohm
 
+## Versions
+### V1.2 SOP
+Latest version. It uses SOP-8 version for the MCP6S21.
+
+### V1.1 MSOP
+Original version. It uses MSOP-8 version for the MCP6S21.
+
 ## Calibration Procedure
 
 Available <a href="http://hscope.martinloren.com/HS101PRO-oscilloscope.html#calib" target="\_new">here</a>.
