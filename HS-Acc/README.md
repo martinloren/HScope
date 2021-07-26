@@ -6,7 +6,7 @@
  - 1 or 2 sensors model
  - Sampling rate up to 3200Sa/s, 10bit resolution
  - WiFi STA or AP supported
- - Full specification and build instructions [here](https://www.martinloren.com/hs-acc-wifi-accelerometer/). 
+ - Full specifications and build instructions [here](https://www.martinloren.com/hs-acc-wifi-accelerometer/). 
  
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
