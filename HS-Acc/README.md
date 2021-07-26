@@ -9,10 +9,11 @@
  - Full specification and build instructions [here](https://www.martinloren.com/hs-acc-wifi-accelerometer/). 
  
  ## Flashing the ESP32 Firmware
- Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/)
+ Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
  ### V1.0 (Beta)
  - First Release
+ - Sensors calibration NOT supported
 
  ## How to use
  When the ESP is powered it creates an Wifi access point with SSID like ESP-ACC-F62684. Connect to it with the phone or PC (password: 123456789) and open the browser (everything except Internet Explorer) at address 192.168.4.1, to access the device settings. Open HScope to use it.
