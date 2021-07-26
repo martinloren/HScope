@@ -1,7 +1,7 @@
 # ESP32-ACC WiFi Accellerometer
  An easy-to-build device to record and analyse accelleration in real-time with HScope.
  
- ![HS-ACC](HS-ACC Intro.jpg)
+ ![HS-ACC](./HS-ACC Intro.jpg)
  
  - 1 or 2 sensors model
  - Sampling rate up to 3200Sa/s, 10bit resolution
