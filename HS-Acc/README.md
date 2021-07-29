@@ -11,7 +11,10 @@
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
- ### V1.0 (Beta)
+ ### V1.0-2 (Beta)
+ - Fixed typo in Web Page, fixed styles, added info
+ 
+ ### V1.0-1 (Beta)
  - First Release
  - Sensors calibration NOT supported
 
