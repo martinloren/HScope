@@ -13,11 +13,10 @@
  
  ### V1.0-2-DEBUG (Beta)
  - For debugging on USB serial port (115200 baud)
- 
- ### V1.0-2 (Beta)
- - Fixed typo in Web Page, fixed styles, added info
+ - Sensors calibration NOT supported
  
  ### V1.0-1 (Beta)
+ - Fixed typo in Web Page, fixed styles, added info
  - First Release
  - Sensors calibration NOT supported
 
