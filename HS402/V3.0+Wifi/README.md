@@ -16,7 +16,7 @@ Note: this version is still in development, schematic and PCB is available for c
 - Install the latest HScope Beta version, enable the Wifi within HScope Settings and connect the wifi to the ESP32 access point (name like: HS402-F62684)
 
 ## Flashing ESP32
-Download the files from the Firmware folder. Connect the ESP32 development board to the PC with the USB cable.
+Download the files from the Firmware folder. Follow the flashing procedure <a href="https://www.martinloren.com/guides/fashing-esp32/" target="\_blank">here</a>.
 
 #### Version 1.4
 - Added possibility to have 2 Wifi configuration for STA mode (ie. home & office). On startup it try the first, if it doesn't work then try the second.
@@ -40,22 +40,6 @@ Download the files from the Firmware folder. Connect the ESP32 development board
 
 #### Version 1.0
 First stable release
-
-### By Command line (change COM port number and filenames)
-    esptool.py -p COM15 -b 460800 --before default_reset --after hard_reset --chip esp32 write_flash --flash_mode dio --flash_freq 80m --flash_size 2MB 0x8000 partition-table.bin 0x1000 bootloader.bin 0x10000 ESP32_firmware_V1.0_Beta.bin
-
-(when the procedure start press both RESET (EN) and BOOT buttons, then release first the RESET (EN) button and then also the BOOT button)
-
-### By using Espressif Flash Download Tool (Windows)
-1. Download the windows driver from the ESP32-Firmware folder.
-2. Download tool <a href="https://www.espressif.com/en/support/download/other-tools" target="\_blank">here</a>, or from the ESP32-Firmware folder.
-3. Load the files in the Download Tool as following. Set correctly the addresses and the COM port (speed 921600 or 460800 baud).<br/>
-Address #1: 0x1000<br/>
-Address #2: 0x8000<br/>
-Address #3: 0x10000<br/><br/>
-![Flash Download Tools](ESP32-Firmware/Flash_Download_Tool.png)
-
-4. Press on START
 
 ## Changelog for PCB V3.0
 - New option 3 with TPS73733 to generate 3.3v reference (lowest noise option)
