@@ -11,7 +11,7 @@
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
- ### V1.0-3 (Beta)
+ ### V1.0-4 (Beta)
  - Can configure channels name
  
  ### V1.0-2-DEBUG (Beta)
