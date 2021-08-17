@@ -11,6 +11,9 @@
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
+ ### V1.0-5 (Beta)
+ - Implemented Battery Monitor Circuit
+ 
  ### V1.0-4 (Beta)
  - Can configure channels name
  
