@@ -11,14 +11,18 @@
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
-  ### V1.0-6 (Beta)
+### V1.0-7 (Beta)
+ - Fixed base configuration
+ - Fixed configuration reset button
+
+### V1.0-6 (Beta)
  - Can use Sigle sensor both on Port 1 and on Port 2
  - Can configure Sensor Axis for each sensor in Dual Model
 
- ### V1.0-5 (Beta)
+### V1.0-5 (Beta)
  - Implemented Battery Monitor Circuit
  
- ### V1.0-4 (Beta)
+### V1.0-4 (Beta)
  - Can configure channels name
  
  ### V1.0-2-DEBUG (Beta)
