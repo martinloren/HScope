@@ -11,6 +11,9 @@
  ## Flashing the ESP32 Firmware
  Check out the guide [here](https://www.martinloren.com/guides/fashing-esp32/).
  
+### V1.0-8 (Beta)
+ - Added check on WiFi password lenght
+   
 ### V1.0-7 (Beta)
  - Fixed base configuration
  - Fixed configuration reset button
