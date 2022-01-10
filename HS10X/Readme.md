@@ -15,25 +15,30 @@ Devices introduction: http://www.martinloren.com/hs10x-diy-oscilloscopes
 
 Universal Firmware for HS101 and HS102 and all input versions. Device and Input type can be configured within <a href="http://hscope.martinloren.com/HS102-oscilloscope.html#flash_firmware" target="_blank">HScope Settings</a>.
 
-### Latest Releases
+### USB Version
 
-#### V10.2 (USB Version):
+#### V10.2 (latest):
 - Re-enabled DUAL input mode
 - Added PWM output
 
-#### V10.1 (USB Version):
+#### V10.1:
 - Double samples
 - Improved stability
-
-#### V9 (BLT Version):
-- Added support for CS32F103 chipsets
-- Lower noise
-- Better Stability
 
 #### V9 (USB Version):
 - Added support for CS32F103 chipsets
 
-#### V8 BLT:
+### BLT Version
+#### V10.3 (latest):
+- Added support for CS32F103 chipsets
+- Lower noise
+- Better Stability
+#### V9:
+- Added support for CS32F103 chipsets
+- Lower noise
+- Better Stability
+
+#### V8:
 - Added another pin for AC/DC coupling
 - Silenced unused pins
 
