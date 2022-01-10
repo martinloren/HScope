@@ -1,0 +1,18 @@
+1) Most parts printed with 3 wall counts and 30% unfill.
+
+2) A 470µF electroltytic capacitor was added across MP1584 output to absorb ESP32 current spikes during communication.
+
+3) Real world rotors can be balanced with mandrels using tubing or treaded rod as core and 3D printed adapters to hold component to it.
+
+4) CLEAR "sine" like waveforms are crucial to balancing with HS-ACC. I used the following settings:
+
+400 sample rate
+33 Hz Low Pass Filter  3rd ORDER
+±16g scale
+
+5) E18-D80NK is a proximity sensor. With potentiometer carefully adjusted performs quite well for this.
+
+6) You'll find STLs for IR bracket options using heavy gauge coat hanger wire. Wire is bent sharply 180º unto itself for about 13mm and inserted into brackets.
+
+ENJOY:)
+
