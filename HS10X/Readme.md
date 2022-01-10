@@ -25,8 +25,8 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 - Double samples
 - Improved stability
 
-#### V9 (USB Version):
-- Added support for CS32F103 chipsets
+#### V9:
+- Added support for CS32F103 MCU
 
 ### BLT Version
 #### V10.3 (latest):
