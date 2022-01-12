@@ -35,7 +35,7 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 - Better Stability
 - Re-enabled DUAL input mode
 - Added PWM output
-- Defined 2 pins to start BLT module configuration procedure (user can select one): PA8 to 3v3 (for HC-06) and PA7 to 3v3 (for HC-05)
+- Defined 2 pins to start BLT module configuration procedure (user can select one): PA8 to 3v3 (for HC-06) and PB15 to 3v3 (for HC-05)
 #### V9:
 - Added support for CS32F103 chipsets
 - Lower noise
