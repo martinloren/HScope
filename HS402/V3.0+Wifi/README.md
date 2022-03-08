@@ -42,9 +42,9 @@ First stable release
 
 ## Schematic/PCB Changelog 
 ### V3.1
-- Updated Inductors L1 and L2 to support more current. 
+- Updated Inductor L1 to support more size of inductors (big and small). 
 - Added C12 as for STM instructions. 
-- Removed R10, R11, R12, R14. Changed value of R13.
+- Removed R10, R11, R12, R14, L10. Changed value of R13.
   
 ### V3.0
 - New option 3 with TPS73733 to generate 3.3v reference (lowest noise option)
