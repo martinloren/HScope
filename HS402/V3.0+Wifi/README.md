@@ -1,7 +1,5 @@
-# HS402 Oscilloscope V3.0
+# HS402 (WiFi) Oscilloscope V3.0+
 HS402 oscilloscope + Wifi capabilities = HS402 V3.0!
-
-Note: this version is still in development, schematic and PCB is available for consultation only and they may change according the current tests.
 
 ## How to start
 ### Hardware Requirements
@@ -18,19 +16,20 @@ Note: this version is still in development, schematic and PCB is available for c
 ## Flashing ESP32
 Download the files from the Firmware folder. Follow the flashing procedure <a href="https://www.martinloren.com/guides/fashing-esp32/" target="\_blank">here</a>.
 
-#### Version 1.4
+## ESP32 Firmware Changelog 
+### Version 1.4
 - Added possibility to have 2 Wifi configuration for STA mode (ie. home & office). On startup it try the first, if it doesn't work then try the second.
 - Fixed STA connection issue
 - Fixed information web page giving wrongly HS404 instead of HS402
 
-#### Version 1.3 (bugged, no use)
+### Version 1.3 (bugged, no use)
 - Added possibility to have 2 Wifi configuration for STA mode (ie. home & office). On startup it try the first, if it doesn't work then try the second.
 
-#### Version 1.2
+### Version 1.2
 - Increased stability
 - Requires STM32 with firmware v1.7
 
-#### Version 1.1 Beta
+### Version 1.1 Beta
 - Decreased CPU speed to 160Mhz
 - Decreased FLASH SPI speed to 40Mhz
 - Power consumption (with HS402): 100mA
@@ -38,16 +37,16 @@ Download the files from the Firmware folder. Follow the flashing procedure <a hr
 - Requires HScope version 216 or higher
 - Tested with ESP32-WROOM-32D and ESP32-WROOM-32E
 
-#### Version 1.0
+### Version 1.0
 First stable release
 
-
-## Changelog for PCB V3.1
+## Schematic/PCB Changelog 
+### V3.1
 - Updated Inductors L1 and L2 to support more current. 
 - Added C12 as for STM instructions. 
 - Removed R10, R11, R12, R14. Changed value of R13.
   
-## Changelog for PCB V3.0
+### V3.0
 - New option 3 with TPS73733 to generate 3.3v reference (lowest noise option)
 - New Wifi module added to PCB (optional)
 - Fixed PCB pads dimension for variable capacitors
