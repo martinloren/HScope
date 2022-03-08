@@ -41,6 +41,12 @@ Download the files from the Firmware folder. Follow the flashing procedure <a hr
 #### Version 1.0
 First stable release
 
+
+## Changelog for PCB V3.1
+- Updated Inductors L1 and L2 to support more current. 
+- Added C12 as for STM instructions. 
+- Removed R10, R11, R12, R14. Changed value of R13.
+  
 ## Changelog for PCB V3.0
 - New option 3 with TPS73733 to generate 3.3v reference (lowest noise option)
 - New Wifi module added to PCB (optional)
