@@ -17,11 +17,11 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 
 ### USB Version
 
-#### V10.2 (do not use):
+#### V10.2 (latest):
 - Re-enabled DUAL input mode
 - Added PWM output
 
-#### V10.1 (do not use):
+#### V10.1:
 - Double samples
 - Improved stability
 
@@ -29,7 +29,7 @@ Universal Firmware for HS101 and HS102 and all input versions. Device and Input 
 - Added support for CS32F103 MCU
 
 ### BLT Version
-#### V10.3 (latest):
+#### V10.3 (do not use):
 - Added support for CS32F103 chipsets
 - Lower noise
 - Better Stability
