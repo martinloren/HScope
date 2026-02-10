@@ -2,6 +2,11 @@
 
 Oscilloscope introduction: https://www.martinloren.com/hs40x-diy-oscilloscopes/
 
+## Other References
+This project has been referenced in the following websites:
+- [https://www.mar-things.com/project-hub/martin-lorens-hs402-diy-oscilloscope] MarThings.com
+- [https://refcircuit.com/articles/15-hs402-3-0-android-stm32-oscilloscope-pcb-and-assembling.html] RefCircuit.com
+
 ## PCB Changelog
 ### V3.0
 - Provide 3 hardware options for main HS402 PCB board (option 3 for lowest noise)
